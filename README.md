@@ -3,7 +3,7 @@ Repositório destinado aos resultados dos testes em dois ambientes
 Para cada ambiente tendo três cenários:
  - Somente com a Mitigação v1
  - Somente com a Mitigação v2
- - Ambas mitigaição (v1 e v2) desligadas
+ - Ambas mitigação (v1 e v2) desligadas
 
 Com cerca de trinta teste para cada cenário é definido uma tabela
 com tais resultados para análises adiante.
